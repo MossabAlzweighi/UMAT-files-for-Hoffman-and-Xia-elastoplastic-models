@@ -1,0 +1,25 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite the article https://doi.org/10.1016/j.ijsolstr.2021.111358"
+
+authors:
+
+  - family-names: Alzweighi
+    given-names: Mossab
+    orcid: https://orcid.org/0000-0002-4364-6894
+
+  - family-names: Mansour
+    given-names: Rami 
+    orcid: https://orcid.org/0000-0001-6375-6292
+
+  - family-names: Tryding
+    given-names: Johan 
+    orcid: https://orcid.org/0000-0003-0107-0716
+
+  - family-names: Kulachenko
+    given-names: Artem 
+    orcid: https://orcid.org/0000-0003-3611-2250
+
+title: Evaluation of Hoffman and Xia plasticity models against bi-axial tension experiments of planar fiber network materials
+
+version: v0.1.0
+date-released: 2021-12-08
